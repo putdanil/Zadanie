@@ -1,8 +1,8 @@
 4
-Identifikator
-Number
-Operator
-Sintaksis
+2Identifikator
+1Number
+3Operator
+4Sintaksis
 
 Identifikator
 1 a 2
